@@ -4,8 +4,6 @@ English | [简体中文](README.zh-cn.md)
 
 ## Preview
 
-#![image](static/resources/website-preview.png)
-
 My personal blog (website example): [https://qigh.github.io/], welcome to fork and star
 
 ## Acknowledgements
