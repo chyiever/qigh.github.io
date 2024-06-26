@@ -5,7 +5,7 @@ baseURL = 'https://qigh.github.io'
 defaultContentLanguage = "zh-cn"
 
 # 网站标题
-title = 'QiGuoheng's Blog'
+title = 'QiGuoheng Blog'
 
 # hugo主题
 theme = 'DoIt'
